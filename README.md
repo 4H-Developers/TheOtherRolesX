@@ -1,4 +1,7 @@
 原模组项目地址：[GitHub](https://github.com/Eisbison/TheOtherRoles)
+汉化版文档地址：[FiveFireX](https://fivefirex.github.io/articles/theotherrolesx.html)
+汉化版中文论坛：[FiveFireX](https://fivefirex.freeflarum.com/)
+汉化版QQ群：`830592624`
 
 ## 快速开始
 
@@ -24,7 +27,7 @@
 
 | Among Us 版本 | 模组版本 | 链接                                                         |
 | ------------- | -------- | ------------------------------------------------------------ |
-| 2022.2.23s    | 3.4.4    | [GitHub下载]([Release The Other Roles v3.4.4 · fivefirex/TheOtherRolesX (github.com)](https://github.com/fivefirex/TheOtherRolesX/releases/tag/v3.4.4)) [蓝奏云下载](https://laoli233.lanzout.com/b00penl2b) [CDN下载](https://npm.elemecdn.com/fivefirex-assets@3.2.1/theotherrolesx/TheOtherRoles.zip) |
+| 2022.2.23s    | 3.4.4    | [GitHub下载](https://github.com/fivefirex/TheOtherRolesX/releases/tag/v3.4.4) [蓝奏云下载](https://laoli233.lanzout.com/b00penl2b) [CDN下载](https://npm.elemecdn.com/fivefirex-assets@3.2.1/theotherrolesx/TheOtherRoles.zip) |
 
 ## 更新日志
 
@@ -917,4 +920,3 @@ mod作者仍在改进角色分配系统。尽管现在不怎么乐观，但至�
 请发起Pull Request。非常感谢。
 
 <p align="center">TheOtherRolesX 更多职业汉化版</p>
-
