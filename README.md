@@ -9,7 +9,7 @@
 
 可参考issue的[提交方法](https://blog.csdn.net/qq_42475711/article/details/105074169)。
 
-最新版v3.4.4下载：[GitHub（较慢）](https://github.com/fivefirex/TheOtherRolesX/releases/latest) [蓝奏云（建议）](https://laoli233.lanzout.com/b00penl2b) [CDN（建议）](https://npm.elemecdn.com/fivefirex-assets/theotherrolesx/TheOtherRoles.zip)
+最新版v3.4.5下载：[GitHub（较慢）](https://github.com/fivefirex/TheOtherRolesX/releases/latest) [蓝奏云（建议）](https://laoli233.lanzout.com/b00penl2b) [CDN（建议）](https://npm.elemecdn.com/fivefirex-assets/theotherrolesx/TheOtherRoles.zip)
 
 在steam中找到`Among Us`的安装目录，将mod解压到此目录即可。
 
@@ -27,12 +27,24 @@
 
 | Among Us 版本 | 模组版本 | 链接                                                         |
 | ------------- | -------- | ------------------------------------------------------------ |
-| 2022.2.23s    | 3.4.4    | [GitHub下载](https://github.com/fivefirex/TheOtherRolesX/releases/tag/v3.4.4) [蓝奏云下载](https://laoli233.lanzout.com/b00penl2b) [CDN下载](https://npm.elemecdn.com/fivefirex-assets@3.2.1/theotherrolesx/TheOtherRoles.zip) |
+| 2022.3.29s    | 3.4.5    | [GitHub下载](https://github.com/fivefirex/TheOtherRolesX/releases/tag/v3.4.5) [蓝奏云下载](https://laoli233.lanzout.com/b00penl2b) [CDN下载](https://npm.elemecdn.com/fivefirex-assets@3.4.0/theotherrolesx/TheOtherRoles.zip) |
+| 2022.2.23s    | 3.4.4    | [GitHub下载](https://github.com/fivefirex/TheOtherRolesX/releases/tag/v3.4.4) [CDN下载](https://npm.elemecdn.com/fivefirex-assets@3.2.1/theotherrolesx/TheOtherRoles.zip) |
 
 ## 更新日志
 
 <details>
   <summary>点开查看更新日志</summary>
+  <b>3.4.5</b>
+  <ul>
+    <li>适配Among Us v2022.3.29s</li>
+    <li>游戏主页可以开启马模式</li>
+    <li>游戏主页可以进入Discord讨论问题与特性</li>
+    <li>修复了警员未正常分配的问题</li>
+    <li>修复了警员晋升警长冷却错误的问题</li>
+    <li>修复了杀手无法传送至尸体的问题</li>
+    <li>更改了熄灯下的资源以弥补原版问题</li>
+    <li>暂时移除了dlekS反转贝壳号</li>
+  </ul>
   <b>3.4.4</b>
   <ul>
     <li>修复了在官方服务器上游戏未正确结束的问题（特别感谢miniduikboot和6pak）</li>
