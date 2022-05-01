@@ -39,12 +39,12 @@
 - sxyzhy - 翻译。Debug。\
 - [源の来如此](https://space.bilibili.com/26361581) - 美工组兼男妈妈。\
 [四个憨批汉化组](https://www.amongus-cn.tk)\
-- 茶色 - 组长。
+- [茶色](https://space.bilibili.com/438844484) - 组长。
 - 旧事 - 设置类文本汉化。
-- 凌霄LX - 职业类文本汉化。
+- [凌霄LX](https://space.bilibili.com/29603938) - 职业类文本汉化。
 - limulus - 杂项汉化。
-- 氢氧则名 - 校对。
-- 查尔斯 - 摸鱼（兼测试？？
+- [氢氧则名](https://space.bilibili.com/43878404) - 校对。
+- [查尔斯](https://space.bilibili.com/191060324/) - 摸鱼（兼测试？？
 
 ### The Other Roles
 
