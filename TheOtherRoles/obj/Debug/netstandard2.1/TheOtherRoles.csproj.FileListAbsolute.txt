@@ -1,0 +1,5 @@
+/Users/mac/Documents/Mod/newproject/TheOtherRolesX/TheOtherRoles/obj/Debug/netstandard2.1/TheOtherRoles.csproj.AssemblyReference.cache
+/Users/mac/Documents/Mod/newproject/TheOtherRolesX/TheOtherRoles/obj/Debug/netstandard2.1/TheOtherRoles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Mod/newproject/TheOtherRolesX/TheOtherRoles/obj/Debug/netstandard2.1/TheOtherRoles.AssemblyInfoInputs.cache
+/Users/mac/Documents/Mod/newproject/TheOtherRolesX/TheOtherRoles/obj/Debug/netstandard2.1/TheOtherRoles.AssemblyInfo.cs
+/Users/mac/Documents/Mod/newproject/TheOtherRolesX/TheOtherRoles/obj/Debug/netstandard2.1/TheOtherRoles.csproj.CoreCompileInputs.cache
