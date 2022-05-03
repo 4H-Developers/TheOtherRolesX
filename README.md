@@ -28,7 +28,7 @@
 三个汉化组。统称：FFxFc4H。
 
 [FiveFireX汉化组](https://fivefirex.github.io)
-- [FiveFireX](https://fivefirex.github.io) - 没错，这个组总共就一个人。还是个懒B（
+- [FiveFireX](https://fivefirex.github.io) - 没错，这个组总共就一个人。还是个懒B（\
 [风尘汉化工作室](https://www.amonguscn.cn)
 - [老李](https://space.bilibili.com/434864305) - 组长兼程序。有着基岩般的后台，因有多年在汉化领域战斗的经验，被称为六边形战士（万能老李好耶
 - [大炳鸽](https://space.bilibili.com/321205) - 副组长兼程序兼校对。日语大佬。
