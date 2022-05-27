@@ -1,3 +1,6 @@
+# End-Of-Life 说明
+自2022.05.27起，此仓库将不再受任何支持。若想了解后续情况，请加QQ群或前往[新的仓库](https://github.com/RamboPlayCom/)
+
 ## 快速开始
 
 [![](https://img.shields.io/badge/原项目地址-https://github.com/Eisbison/TheOtherRoles-green)](https://github.com/Eisbison/TheOtherRoles)
